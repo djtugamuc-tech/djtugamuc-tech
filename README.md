@@ -68,3 +68,5 @@ Stack: Kotlin · Java · Jetpack Compose · Android Automotive
 <sub>made with vim, coffee and insomnia ☕</sub>
 
 </div>
+
+<!-- profile -->
